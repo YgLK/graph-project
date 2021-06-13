@@ -4,8 +4,8 @@ Ford-Fulkerson algorithm
 [![python](https://img.shields.io/badge/language-python-%23306998)](https://www.python.org/)
 
 ## Table of Contents
-* [Analytical part of the project (`analytical_part_graph.pdf` in main directory)](https://github.com/YgLK/g_backup/blob/main/analytical_part_graph.pdf)
-* [Analysis and applications of algorithm  (`algorithm_analysis.pdf` in main directory)](https://github.com/YgLK/g_backup/blob/main/algorithm_analysis.pdf)
+* [Analytical part of the project (`analytical_part_graph.pdf` in main directory)](https://github.com/YgLK/graph-project/blob/main/algorithm_analysis.pdf)
+* [Analysis and applications of algorithm  (`algorithm_analysis.pdf` in main directory)](https://github.com/YgLK/graph-project/blob/main/algorithm_analysis.pdf)
 * [Technologies](#technologies)  
 * [Prerequisites](#prerequisites)
 * [Setup](#setup)
