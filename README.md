@@ -6,6 +6,9 @@ Ford-Fulkerson algorithm
 ## Table of Contents
 * [Analytical part of the project (`analytical_part_graph.pdf` in main directory)](https://github.com/YgLK/graph-project/blob/main/analytical_part_graph.pdf)
 * [Analysis and applications of algorithm  (`algorithm_analysis.pdf` in main directory)](https://github.com/YgLK/graph-project/blob/main/algorithm_analysis.pdf)
+``` 
+(page 4 analytical_part_graph.pdf) In incidence matrix typo occurs - should be '1' instead of '3' in element [3][e3]
+```
 * [Technologies](#technologies)  
 * [Prerequisites](#prerequisites)
 * [Setup](#setup)
